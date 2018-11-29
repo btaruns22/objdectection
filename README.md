@@ -1,0 +1,2 @@
+# objdectection
+mineraldetection
